@@ -8,3 +8,11 @@ Revisiting the program allowed me to:
 - make proper use of property decorators to create "getters/setters"
 - clean up missmatched use of print(file=) and X.write()
 - Utilize generators to improve memroy performance
+
+This program and its subsequent revisitation improved my knowledge in the following areas:
+- property decoration
+- generator behavior
+- context managers
+- i/o
+- custom iteration(tools, limits, and pitfalls)
+- utilizing GUI for filedialog input
