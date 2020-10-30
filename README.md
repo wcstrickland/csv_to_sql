@@ -6,8 +6,8 @@ After becoming more comfortable with generators and property decorators I realiz
 Revisiting the program allowed me to:
 - Utilize better attribute and method names
 - make proper use of property decorators to create "getters/setters"
-- clean up missmatched use of print(file=) and X.write()
-- Utilize generators to improve memroy performance
+- clean up mismatched use of print(file=) and X.write()
+- Utilize generators to improve memory performance
 
 This program and its subsequent revisitation improved my knowledge in the following areas:
 - property decoration
@@ -15,4 +15,4 @@ This program and its subsequent revisitation improved my knowledge in the follow
 - context managers
 - i/o
 - custom iteration(tools, limits, and pitfalls)
-- utilizing GUI for filedialog input
+- utilizing GUI for file-dialog input
