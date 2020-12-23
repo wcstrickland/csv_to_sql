@@ -17,5 +17,5 @@ This program and its subsequent revisitations improved my knowledge in the follo
 - custom iteration(tools, limits, and pitfalls)
 - utilizing GUI for file-dialog input
 
-![alt text](1.png)![alt text](2.png)
-![alt text](3.png)![alt text](4.png)
+![alt text](images/1.png)![alt text](images/2.png)
+![alt text](images/3.png)![alt text](images/4.png)
